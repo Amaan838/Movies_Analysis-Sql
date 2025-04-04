@@ -40,7 +40,7 @@ Stores actor information:
 
 Below is the EER diagram representing the database schema:
 
-![MoviesDB EER Diagram](image.png)
+![Image](https://github.com/user-attachments/assets/3b44020d-7479-4a3d-bcda-3a5c236369ae)
 
 ---
 
