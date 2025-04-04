@@ -36,6 +36,14 @@ Stores actor information:
 
 ---
 
+## 📊 Enhanced Entity Relationship Diagram (EER)
+
+Below is the EER diagram representing the database schema:
+
+![MoviesDB EER Diagram](image.png)
+
+---
+
 ## 🔧 Features & Concepts Covered
 
 | Feature                | Description                                             |
@@ -61,18 +69,4 @@ Stores actor information:
 - 🗣️ Language trends across movies  
 - 👴 Age demographics of actors  
 
----
 
-## 📌 Enhanced Entity Relationship Diagram (EER)
-
-> A visual representation of how all tables are interlinked within the MOVIESDB schema.
-
-*(Optional: Insert an image or link to the diagram here)*
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/movies-sql-project.git
